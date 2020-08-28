@@ -1,0 +1,4 @@
+rootProject.name='Auto-Media-Service-Java'
+include ':mobile'
+include ':automotive'
+include ':shared'
